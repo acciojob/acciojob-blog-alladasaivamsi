@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header {
+    margin: 10px 0px;
+}
+
+#image {
+    width: 200px;
+    height: 200px;
+}
+
+.resource1 {
+    display: grid;
+    gap: 20px;
+}
+
+.resource2 {
+    display: grid;
+    gap: 20px;
+}
+
+.resource3 {
+    display: grid;
+    gap: 20px;
+}
+
+main {
+    display: grid;
+    gap: 20px;
+    margin-bottom: 20px;
+}
